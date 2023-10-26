@@ -1,6 +1,4 @@
 
-P
- JavaScript/Calculadora/script.js,9\c\9cf2dbaf52c477093851eb27d8ce14bc36aff677
 L
 .idea/codeStyles/Project.xml,6\e\6ecd6000a7b6f4a2884412ff19f74193ed089648
 T
